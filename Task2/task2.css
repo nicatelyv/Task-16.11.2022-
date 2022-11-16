@@ -1,0 +1,23 @@
+.div1{
+    background-color: rgb(191, 0, 255);
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+.div2{
+    background-color: rgb(255, 0, 166);
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+}
+.div3{
+    background-color: rgb(226, 255, 9);
+    width: 160px;
+    height: 160px;
+    padding: 10px;
+    text-align: center;
+    
+}
+#text{
+    margin-top: 70px;
+}
